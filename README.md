@@ -23,11 +23,11 @@ Voltado para estudantes do ensino fundamental e médio e também qualquer pessoa
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 ## Desenvolvimento:
-- [] Splah Screen
+- [ ] Splah Screen
 - [X] Telas Principais,
 - [X] Home Page,
 - [X] Gerência de estado com SetState
-- [] Gerência de estado com MobX
+- [ ] Gerência de estado com MobX
 
 ## Aprendizado:
 * Dart
